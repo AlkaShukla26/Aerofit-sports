@@ -33,7 +33,7 @@ This project analyzes customer demographics, behavior, and preferences across th
 **1. Encourage Upgrades**  
 - Identify KP281 and KP481 users with moderate-to-high usage.  
 - Offer special deals or information to encourage them to upgrade to KP781.  
-- Potential revenue increase: **15–20% higher per customer** for upgraded sales.
+- Potential revenue increase: **higher per customer** for upgraded sales.
 
 **2. Tailor Marketing by Customer Type**  
 - **KP-281:** Focus on affordability and utility; local stores and offline marketing.  
