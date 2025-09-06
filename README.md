@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/AlkaShukla26/Aerofit-sports/blob/main/ChatGPT%20Image%20Sep%206%2C%202025%2C%2001_35_05%20PM.png?raw=true" 
+       alt="Aerofit Treadmill Analysis Cover" width="850"/>
+</p>
+
 # Aerofit-sports
 "Analyzed Aerofit treadmill customer dataset to uncover demographic and income-based purchase trends across three treadmill models (KP-281, KP-481, KP-781). Generated insights through EDA, visualizations, and statistical analysis to guide business decisions and product targeting."
 # Aerofit-sport
