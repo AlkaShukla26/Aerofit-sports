@@ -3,8 +3,6 @@
        alt="Aerofit Treadmill Analysis Cover" width="567" height="227"/>
 </p>
 
-# Aerofit-sports
-"Analyzed Aerofit treadmill customer dataset to uncover demographic and income-based purchase trends across three treadmill models (KP-281, KP-481, KP-781). Generated insights through EDA, visualizations, and statistical analysis to guide business decisions and product targeting."
 # Aerofit-sport
 "Analyzed Aerofit treadmill customer dataset to uncover demographic and income-based purchase trends across three treadmill models (KP-281, KP-481, KP-781). Generated insights through EDA, visualizations, and statistical analysis to guide business decisions and product targeting."
 # Aerofit Treadmill Customer Analysis
